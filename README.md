@@ -88,7 +88,7 @@ project-1-Marketing Campaign Analysis AB Testing and Regression Analysis/
 ├── README.md
 ├── .gitignore
 ├── project guidline.txt
-└── youtube summary.txt
+└── 
 ```
 
 ## How to Run
